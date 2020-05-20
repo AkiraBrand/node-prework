@@ -11,9 +11,6 @@ let messages = [
     { 'id': 3, 'user': 'lorem ipsum', 'message': 'dolor set amet' }
   ];
 
-function getMessages(input){
-    return messages, response;
-}
 
   server.listen(3000, () => {
       console.log('The HTTP server is listening at port 3000.');
